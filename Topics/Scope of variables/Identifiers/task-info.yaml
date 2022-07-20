@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: With const, we create a variable accessible inside the whole function.
+- text: With let, we create a variable that is accessible only inside that block of
+    code.
+- text: With var, we create a variable that is accessible in the whole function.
+- text: We can declare a global variable without any identifier.
+files:
+- name: main.js
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9774#comment
+status: Solved
+record: -1

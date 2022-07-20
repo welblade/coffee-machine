@@ -1,0 +1,19 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    myVar = "global";
+
+    function myFunc() {
+        console.log(myVar);
+    }
+
+    myFunc();
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9779#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 20 Jul 2022 11:56:41 UTC
+record: -1

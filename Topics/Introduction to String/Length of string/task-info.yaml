@@ -1,0 +1,19 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    function calculateLength(data) {
+        let strLength = string.len();
+        console.log(strLength);
+    }
+
+    calculateLength("JS is used to create web applications.");
+    calculateLength("This is a string, calculate its length. ");
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17753#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 20 Jul 2022 04:25:33 UTC
+record: -1
